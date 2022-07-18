@@ -3,11 +3,11 @@ Cycle is a game where the players try to cut each other off using cycles that le
 
 ## Getting Started
 ---
-Make sure you have Python 3.8.0 or newer and Raylib Python CFFI 3.7 installed and running on your machine. You can install Raylib Python CFFI by opening a terminal and running the following command.
+Check to see if your computer is running Raylib Python CFFI 3.7 and Python 3.8.0 or later. By launching a terminal and entering the following command, you can install Raylib Python CFFI.
 ```
 python3 -m pip install raylib
 ```
-After you've installed the required libraries, open a terminal and browse to the project's root folder. Start the program by running the following command.```
+Once the necessary libraries have been installed, use a terminal and navigate to the project's root folder. Run the following command to launch the program. ```
 
 python3 cycle
 ```
